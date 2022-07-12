@@ -10,6 +10,10 @@
 
 help Santa find the right floor.
 
+### Day 2: I Was Told There Would Be No Math
+
+help elves figure out the right amount of wrapping paper and ribbon.
+
 ---
 
 Environment
