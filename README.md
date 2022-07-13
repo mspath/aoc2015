@@ -18,6 +18,10 @@ help elves figure out the right amount of wrapping paper and ribbon.
 
 help Santa delivering the packages.
 
+### Day 4: The Ideal Stocking Stuffer
+
+mine some adventcoins.
+
 ---
 
 Environment
@@ -27,4 +31,4 @@ Environment
 
 ---
 
-updated: 2022-07-12
+updated: 2022-07-13
