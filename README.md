@@ -26,6 +26,10 @@ mine some adventcoins.
 
 find nice Strings.
 
+### Day 6: Probably a Fire Hazard
+
+win the holiday house decorating contest
+
 ---
 
 Environment
