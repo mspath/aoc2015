@@ -22,6 +22,10 @@ help Santa delivering the packages.
 
 mine some adventcoins.
 
+### Day 5: Doesn't He Have Intern-Elves For This?
+
+find nice Strings.
+
 ---
 
 Environment
