@@ -30,6 +30,10 @@ find nice Strings.
 
 win the holiday house decorating contest
 
+### Day 7: Some Assembly Required
+
+help to assemble a circuit of logic gates.
+
 ---
 
 Environment
