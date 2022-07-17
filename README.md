@@ -38,6 +38,10 @@ help to assemble a circuit of logic gates.
 
 help escaping strings.
 
+### Day 9: All in a Single Night
+
+help Santa find a route for delivering the presents.
+
 ---
 
 Environment
