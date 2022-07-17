@@ -42,6 +42,10 @@ help escaping strings.
 
 help Santa find a route for delivering the presents.
 
+### Day 10: Elves Look, Elves Say
+
+simulate a game Elves play.
+
 ---
 
 Environment
