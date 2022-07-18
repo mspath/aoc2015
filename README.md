@@ -50,6 +50,10 @@ simulate a game Elves play.
 
 help Sante choosing a password.
 
+### Day 12: JSAbacusFramework.io
+
+help Elves parsing a JSON file.
+
 ---
 
 Environment
