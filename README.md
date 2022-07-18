@@ -46,6 +46,10 @@ help Santa find a route for delivering the presents.
 
 simulate a game Elves play.
 
+### Day 11: Corporate Policy
+
+help Sante choosing a password.
+
 ---
 
 Environment
@@ -55,4 +59,4 @@ Environment
 
 ---
 
-updated: 2022-07-13
+updated: 2022-07-18
