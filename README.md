@@ -54,6 +54,10 @@ help Sante choosing a password.
 
 help Elves parsing a JSON file.
 
+### Day 13: Knights of the Dinner Table
+
+help place the table to maximize happiness.
+
 ---
 
 Environment
