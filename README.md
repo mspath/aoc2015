@@ -62,6 +62,10 @@ help place the table to maximize happiness.
 
 find the fastest reindeer.
 
+### Day 15: Science for Hungry People
+
+help configure the best recipe.
+
 ---
 
 Environment
