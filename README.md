@@ -58,6 +58,10 @@ help Elves parsing a JSON file.
 
 help place the table to maximize happiness.
 
+### Day 14: Reindeer Olympics
+
+find the fastest reindeer.
+
 ---
 
 Environment
