@@ -64,11 +64,19 @@ find the fastest reindeer.
 
 ### Day 15: Science for Hungry People
 
-help configure the best recipe.
+help configure the best recipe. incomplete.
 
 ### Day 16: Aunt Sue
 
 thank the right Aunt for her present.
+
+### Day 17: No Such Thing as Too Much
+
+help storing eggnog. incomplete.
+
+### Day 18: Like a GIF For Your Yard
+
+animate your lighting.
 
 ---
 
