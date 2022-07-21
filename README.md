@@ -78,6 +78,14 @@ help storing eggnog. incomplete.
 
 animate your lighting.
 
+### Day 19: Medicine for Rudolph
+
+help calibrate the medicine for Rudolph.
+
+### Day 20: Infinite Elves and Infinite Houses
+
+observe elves delivering presents.
+
 ---
 
 Environment
