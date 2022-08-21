@@ -86,13 +86,17 @@ help calibrate the medicine for Rudolph.
 
 observe elves delivering presents.
 
+### Day 21: RPG Simulator 20XX
+
+be smart about in-app purchases.
+
 ---
 
 Environment
 
-- Kotlin 1.7.0
+- Kotlin 1.7.10
 - Intellij 2021.3.3
 
 ---
 
-updated: 2022-07-18
+updated: 2022-08-21
