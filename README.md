@@ -94,8 +94,8 @@ be smart about in-app purchases.
 
 Environment
 
-- Kotlin 1.8.0
-- Intellij 2022.2.4
+- Kotlin 1.8.10
+- Intellij 2022.3.3
 
 ---
 
@@ -103,5 +103,5 @@ Environment
 language: kotlin
 repo: aoc2015
 status: active
-updated: 2023-01-29
+updated: 2023-03-19
 ```
